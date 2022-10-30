@@ -12,6 +12,7 @@ NFTSearcher - user provides an NFT address and clicks a button, it should displa
 + [FlaskSQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/)
 
 To install README "NFT", follow these steps:
+```
 # Clone this repository
 $ git clone https://github.com/coffeewithtears/NFTSearhcer.git
 
@@ -29,7 +30,7 @@ $ cd src
 
 # Run it:
 $ flask --app app.py run
-
+```
 # Usage
 Open your code editor with python and run our code.
 The second step is to open the link http://127.0.0.1:5000/  and register on our website.
